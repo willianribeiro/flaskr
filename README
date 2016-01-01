@@ -1,1 +1,8 @@
 This repository it's the code of the Flask Tutorial: http://flask.pocoo.org/docs/0.10/tutorial/introduction/
+
+To run this project, just do it:
+
+- git clone git@github.com:willianribeiro/flaskr.git
+- `source venv/bin/activate`
+- python flaskr.py
+- open browser: http://localhost:5000/
